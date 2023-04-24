@@ -1,0 +1,10 @@
+/* Login.module.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Add any additional styles you need */
